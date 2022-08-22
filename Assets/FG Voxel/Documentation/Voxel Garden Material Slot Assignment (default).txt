@@ -1,0 +1,86 @@
+Bush:
+-Mat_c4_r-3__ChateauGreen
+-Mat_c4_r-2__Salem
+
+BushFlowers:
+-Mat_c4_r-3__ChateauGreen
+-Mat_c4_r-2__Salem
+-Mat_c3_r+2__Contessa
+-Mat_c3_r-4__PineGlade
+
+BushSm
+-Mat_c3_r-4__PineGlade
+-Mat_c3_r-2__Piper
+
+SpikyPlant / CactusBg / CactusMd / CactusSm / CactusGiant
+-Mat_c4_r-4__Sushi
+-Mat_c4_r-3__ChateauGreen
+
+Sapling
+-Mat_c4_r-2__Salem
+-Mat_c4_r0__Elephant
+-Mat_c6_r-1__Espresso
+
+TreeSm
+-Mat_c4_r-4__Sushi
+-Mat_c4_r-3__ChateauGreen
+-Mat_c6_r-1__Espresso
+-Mat_c6_r0__Eclipse
+
+TreeMd
+-Mat_c4_r-3__ChateauGreen
+-Mat_c4_r-2__Salem
+-Mat_c6_r-1__Espresso
+-Mat_c6_r0__Eclipse
+
+TreeLg
+-Mat_c4_r-3__ChateauGreen
+-Mat_c4_r-1__Genoa
+-Mat_c6_r-1__Espresso
+-Mat_c6_r0__Eclipse
+
+PineTree
+-Mat_c4_r-1__Genoa
+-Mat_c4_r0__Elephant
+-Mat_c6_r-1__Espresso
+-Mat_c6_r0__Eclipse
+
+PineTreeLg
+-Mat_c4_r-1__Genoa
+-Mat_c4_r0__Elephant
+-Mat_c6_r-1__Espresso
+-Mat_c6_r0__Eclipse
+
+HedgeTreeSm / HedgeTreeShort / HedgeTreeTall / HedgePineTree
+-Mat_c4_r-2__Salem
+-Mat_c4_r0__Elephant
+-Mat_c6_r-1__Espresso
+
+PalmA / PalmB
+-Mat_c4_r-4__Sushi
+-Mat_c4_r-3__ChateauGreen
+-Mat_c6_r-4__IndianKhaki
+-Mat_c6_r-3__Teak
+-Mat_c6_r-2__Shadow
+
+Maze1 / Maze1Pointed / Maze2 / Maze2Archway / Maze3 / Maze3Archway / MazeDecorativeTopper
+-Mat_c4_r-2__Salem
+-Mat_c4_r0__Elephant
+
+WallCornerPillar / WallShort / WallLong / WallArch
+-Mat_c5_r+3__GrayNickel
+-Mat_c5_r+2__Dawn
+
+RockFlat / RockLarge / RockPath / RockTall / RockSmall
+-Mat_c6_r-3__Teak
+-Mat_c6_r-2__Shadow
+
+FenceGate
+-Mat_c6_r-1__Espresso
+-Mat_c6_r0__Eclipse
+-Mat_c0_r0__Black
+
+FenceShort / FenceMedium / FenceLong / Gateway
+-Mat_c6_r-1__Espresso
+-Mat_c6_r0__Eclipse
+
